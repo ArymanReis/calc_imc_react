@@ -1,0 +1,20 @@
+button {
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 1rem 1.5rem;
+    background-color: #f5e93c;
+    border: none;
+    color: #0e0e15;
+    cursor: pointer;
+    opacity: .9;
+    flex: 1;
+    border-radius: 50px;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+#clear-btn {
+    background-color: #4d4dff;
+}
