@@ -9,8 +9,6 @@
 
 <img align="center" src="public/tela_project.png" alt="imagem do projeto"/>
 
-#### Clica ne link e divirta-se 👉 
-
 #### Tecnologias Usadas no projeto
 
 <div style="display: inline_block"><br/>
