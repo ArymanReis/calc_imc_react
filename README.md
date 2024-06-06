@@ -5,7 +5,7 @@
 - Intituição: Udemy
 
 #### Imagem do projeto
-##### Nome: Gerador de sombras e suas regras
+##### Nome: Calculadora IMC Com React
 
 <img align="center" src="public/tela_project.png" alt="imagem do projeto"/>
 
